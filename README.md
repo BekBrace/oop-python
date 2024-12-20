@@ -1,4 +1,5 @@
-Hey, what's going on everyone? Welcome back to the BackBrace Channel! My name is Amir, and in this video tutorial, I'm going to explain Object-Oriented Programming (OOP) in Python in the easiest and smoothest way possible. Whether you're new to programming or just looking to solidify your understanding, this video is for you. Let's dive right in!
+This is my personal script for the youtube tutorial on the topic.
+Hope it is going to be useful for lots of you Python beginner-programmer friends. 
 
 ---
 
